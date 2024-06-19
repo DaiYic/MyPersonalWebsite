@@ -1,0 +1,58 @@
+/* styles/style.css */
+
+/* 设置整体页面样式 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+}
+
+/* 标题样式 */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* 个人信息区域样式 */
+.personal-info {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+}
+
+/* 图片样式 */
+.profile-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* 自定义图像宽度 */
+    height: 150px; /* 自定义图像高度 */
+    border-radius: 50%;
+    border: 3px solid #fff; /* 白色边框 */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* 阴影效果 */
+}
+
+/* 链接样式 */
+a {
+    color: #007bff; /* 蓝色链接 */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* 鼠标悬停时下划线 */
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    .profile-image {
+        width: 120px;
+        height: 120px;
+    }
+}
