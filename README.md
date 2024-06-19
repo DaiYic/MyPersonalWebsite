@@ -9,7 +9,6 @@
 Welcome to my GitHub profile! Here you can find various projects and repositories I'm working on. Feel free to explore and reach out if you have any questions or collaborations in mind.
 
 #### Contact Information:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+- Email: [D2998654493@outlook.com](mailto:D2998654493@outlook.com)
 
 Looking forward to connecting with you!
